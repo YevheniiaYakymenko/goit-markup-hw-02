@@ -87,8 +87,8 @@ ul {
             cursor: pointer;
 }
 
-.button .button:hover,
-.button .button:focus {
+.title .button:hover,
+.title .button:focus {
         background-color:  #404BBF;
 }
 .button .link:active {
@@ -128,6 +128,9 @@ ul {
         text-transform: capitalize;
 }
 
+.team-list-item {
+    background-color: #FFFFFF;
+}
 .team-photo-item {
     background-color: #FFFFFF;
 }
