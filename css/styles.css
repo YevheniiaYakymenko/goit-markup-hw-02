@@ -42,15 +42,15 @@ ul {
         letter-spacing: 0.02em;
 }
 
-.header-list-item .link:hover,
-.header-list-item .link:focus {
+.header-list .header-list-item:hover,
+.header-list .header-list-item:focus {
     color: #404BBF;
 }
 
 .address {
     font-style: normal;
 }
-.address-link-item {
+.link {
         color: #434455;
         font-size: 16px;
         font-weight: 400;
@@ -87,8 +87,8 @@ ul {
             cursor: pointer;
 }
 
-.button .link:hover,
-.button .link:focus {
+.button .button:hover,
+.button .button:focus {
         background-color:  #404BBF;
 }
 .button .link:active {
@@ -128,10 +128,7 @@ ul {
         text-transform: capitalize;
 }
 
-.team-title-list {
-    background-color: #FFFFFF;
-}
-.team-image-item {
+.team-photo-item {
     background-color: #FFFFFF;
 }
 
