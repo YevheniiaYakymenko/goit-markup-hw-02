@@ -14,18 +14,19 @@ ul {
 }
 
 .header-nav-logo {
-    color:#2E2F42;
-    font-family: Raleway;
+    color:#4D5AE5;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    
 }
 .header-logo-web {  
-        color: #4D5AE5;
-        font-family: Raleway;
+        color: #2E2F42;
+        font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.16;
@@ -46,7 +47,11 @@ ul {
     color: #404BBF;
 }
 
+.address {
+    font-style: normal;
+}
 .address-link-item {
+        color: #434455;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -59,7 +64,7 @@ ul {
 }
 
 .title {
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .title-1 {
@@ -74,7 +79,7 @@ ul {
 
 .button {
             color: #FFF;
-            background: #4D5AE5;
+            background-color: #4D5AE5;
             font-size: 16px;
             font-weight: 500;
             line-height: 1.5;
@@ -84,14 +89,14 @@ ul {
 
 .button .link:hover,
 .button .link:focus {
-        background:  #404BBF;
+        background-color: ;:  #404BBF;
 }
 .button .link:active {
-        background: #404BBF;
+        background-color: #404BBF;
 }
 
 .features {
-    background: #FFF;
+    background-color: #FFFFFF;
 }
 
 .features-title {
@@ -143,7 +148,7 @@ ul {
 }
 
 .portfolio {
-    background: #FFF;
+    background-color: #FFF;
 }
 
 .portfolio-title {
@@ -175,17 +180,17 @@ color: #2E2F42;
 }
 
 .footer-link {
-    color: #F4F4FD;
-        font-family: Raleway;
+    color: #4D5AE5;
+        font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 
 .footer-link-web {
-    color: #4D5AE5;
+    color: #F4F4FD;
         font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
