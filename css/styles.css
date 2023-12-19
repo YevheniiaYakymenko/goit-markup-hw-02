@@ -77,7 +77,7 @@ ul {
  
 }
 
-.button-link {
+.button {
             color: #FFF;
             background-color: #4D5AE5;
             font-size: 16px;
@@ -87,8 +87,8 @@ ul {
             cursor: pointer;
 }
 
-.button-link .link:hover,
-.button-link .link:focus {
+.button .link:hover,
+.button .link:focus {
         background-color:  #404BBF;
 }
 .button .link:active {
