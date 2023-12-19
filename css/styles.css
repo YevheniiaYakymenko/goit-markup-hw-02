@@ -58,8 +58,8 @@ ul {
         letter-spacing: 0.02em;
 }
 
-.address-link-item .link:hover,
-.address-link-item .link:focus {
+.address-link .link:hover,
+.address-link .link:focus {
     color: #404BBF;
 }
 
@@ -87,13 +87,14 @@ ul {
             cursor: pointer;
 }
 
-.button .link:hover,
-.button .link:focus {
-        background-color: ;:  #404BBF;
+.button-link .link:hover,
+.button-link .link:focus {
+        background-color:  #404BBF;
 }
 .button .link:active {
         background-color: #404BBF;
 }
+
 
 .features {
     background-color: #FFFFFF;
@@ -127,7 +128,10 @@ ul {
         text-transform: capitalize;
 }
 
-.team-img {
+.team-title-list {
+    background-color: #FFFFFF;
+}
+.team-image-item {
     background-color: #FFFFFF;
 }
 
@@ -145,10 +149,6 @@ ul {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-}
-
-.portfolio {
-    background-color: #FFF;
 }
 
 .portfolio-title {
